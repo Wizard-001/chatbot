@@ -8,6 +8,8 @@ Nexus Intelligence is a high-fidelity, premium AI chat interface powered by the 
 
 ### 🔗 [Live Demo: Nexus Intelligence](https://chatbot-dhgxtd3wklmidsappq2sgjf.streamlit.app/)
 
+> **Note:** Click the link above to interact with the chatbot immediately in your browser! No installation required.
+
 
 ## ✨ Features
 
