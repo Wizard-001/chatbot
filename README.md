@@ -6,6 +6,9 @@ Nexus Intelligence is a high-fidelity, premium AI chat interface powered by the 
 ![Mistral AI](https://img.shields.io/badge/Model-Mistral-orange)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 
+### 🔗 [Live Demo: Nexus Intelligence](https://chatbot-dhgxtd3wklmidsappq2sgjf.streamlit.app/)
+
+
 ## ✨ Features
 
 - **Futuristic UI**: A premium dark-mode interface with animated backgrounds and glassmorphism.

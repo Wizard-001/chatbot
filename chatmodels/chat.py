@@ -11,6 +11,7 @@ print("press 1 for sad mode")
 print("press 2 for happy mode")
 print("press 3 for angry mode")
 print("press 4 for neutral mode")
+print("press 5 for funny mode")
 
 choice = int(input("Enter your choice: "))
 
@@ -22,6 +23,8 @@ elif choice == 3:
     systemMessage = SystemMessage(content="You are an angry ai assiatant")
 elif choice == 4:
     systemMessage = SystemMessage(content="You are a neutral ai assiatant")
+elif choice == 5:
+    systemMessage = SystemMessage(content="You are a funny ai assiatant")
 
 
 
